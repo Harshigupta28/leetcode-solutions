@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -75,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
