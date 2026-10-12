@@ -22,6 +22,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -47,6 +48,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
