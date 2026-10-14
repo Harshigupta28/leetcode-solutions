@@ -74,6 +74,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
