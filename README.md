@@ -55,6 +55,7 @@
 | [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
