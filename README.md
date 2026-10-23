@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -125,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
