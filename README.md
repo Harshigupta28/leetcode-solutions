@@ -12,6 +12,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@
 | [0202-happy-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Floyd's Cycle Finding Algorithm
