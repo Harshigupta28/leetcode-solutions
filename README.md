@@ -6,6 +6,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0415-add-strings](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -177,6 +179,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Binary Indexed Tree
 |  |
