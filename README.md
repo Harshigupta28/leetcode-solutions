@@ -111,6 +111,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
