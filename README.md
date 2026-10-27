@@ -62,6 +62,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1254-number-of-closed-islands](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -122,6 +123,7 @@
 | [0441-arranging-coins](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
