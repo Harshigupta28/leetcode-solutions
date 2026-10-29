@@ -62,6 +62,7 @@
 | [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -129,6 +130,7 @@
 | [0441-arranging-coins](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -278,4 +280,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
