@@ -287,4 +287,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
