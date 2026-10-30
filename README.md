@@ -64,6 +64,7 @@
 | [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
