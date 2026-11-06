@@ -81,6 +81,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -106,6 +107,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -164,6 +166,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -202,6 +205,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2747-count-zero-request-servers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
