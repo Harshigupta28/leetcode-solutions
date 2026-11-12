@@ -66,6 +66,7 @@
 | [0506-relative-ranks](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
