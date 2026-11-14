@@ -95,6 +95,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -220,6 +221,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2747-count-zero-request-servers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
