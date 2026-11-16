@@ -14,6 +14,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -265,6 +266,7 @@
 | [0415-add-strings](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
