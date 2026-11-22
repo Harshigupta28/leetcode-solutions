@@ -208,6 +208,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0441-arranging-coins) |
