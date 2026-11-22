@@ -215,6 +215,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
