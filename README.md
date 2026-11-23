@@ -88,6 +88,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -217,6 +218,7 @@
 | [0507-perfect-number](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Harshigupta28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshigupta28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
@@ -423,4 +426,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshigupta28/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshigupta28/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
